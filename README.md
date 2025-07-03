@@ -1,4 +1,4 @@
-url: 
+url: https://ziewy99.github.io/03_defenseshooting/
 
 # DefenseShooting
 
